@@ -5,10 +5,11 @@
 #### Team Name: `Mounir Memorial`    
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### Our idea is a wearable sun band that changes colors based on your current UV exposure through geocomputational analysis and frequency conversion and connects to an app that summarizes total UV exposure and dehydration levels. 
+##### Title: Sun Band, our idea is a wearable sun band that changes colors based on your current UV exposure through geocomputational analysis and frequency conversion and connects to an app that summarizes total UV exposure and dehydration levels. 
 
 
-#### A visual
+#### A visual<img width="413" alt="Screenshot 2024-10-12 at 3 15 35 PM" src="https://github.com/user-attachments/assets/87e461d6-9473-4c9d-9281-9fd8db15be76">
+
 ![bigdatahackathon4sd](https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/bigdatahackathon_sd_2024.png?raw=true "Big Data Hackathon for San Diego 2024")
 <img height="10%" width="50%" alt="HDMA" src="https://github.com/BigDataForSanDiego/bigdataforsandiego.github.io/blob/main/templates/img/hdma2.png?raw=true"> 
 
